@@ -15,7 +15,7 @@ function draw_clock(obj) {
   fill(200); // dark grey
   textSize(40);
   textAlign(CENTER, CENTER);
-  text("YOUR MAIN CLOCK CODE GOES HERE", width / 2, 200);
+  text("SECONDS", width / 2, 200); 
 
 
   fill(249, 140, 255);// pink
